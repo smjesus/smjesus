@@ -24,8 +24,7 @@ Mineiro, residente em Manaus, desenvolvedor Java (WEB), também trabalho com des
 <hr>
 <BR>
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smjesus&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smjesus&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=smjesus&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
 <BR>
 </p>
