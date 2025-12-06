@@ -22,13 +22,12 @@ Mineiro, residente em Manaus, desenvolvedor Java (WEB), também trabalho com des
 ![tomcat][ApacheTomcat_BADGE]
 
 <hr>
-<BR>
-<div>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=smjesus&locale=pt_BR" alt="GitHub Streak" /></a>
-</div>
-<BR>
 </p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=smjesus&locale=pt_BR" alt="GitHub Streak" /></a>
+</p>
+<BR>
 <p align="center">
   <a href="https://www.aeroceti.com/" target="_blank"><img src="https://img.shields.io/badge/WebSite-Formulario%20de%20Contato-blue" target="_blank"></a>
 </p>
