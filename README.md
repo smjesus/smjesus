@@ -6,12 +6,15 @@
 [Hibernate_BADGE]:    https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white
 [ApacheTomcat_BADGE]: https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black
 
+<div align="center">
+  
 ###
 ### Seja bem vindo ao GitHub de Sergio Murilo!
 ###
 
-Mineiro, residente em Manaus, desenvolvedor Java (WEB), também trabalho com desenvolvimento de sites em WordPress.
-<p align="center"><hr>
+Mineiro, residente em Belo Horizonte, desenvolvedor Java (WEB), também trabalho com desenvolvimento de sites em WordPress.
+
+<hr>
   
 ![spring][SPRING_BADGE]
 ![java][JAVA_BADGE]
@@ -22,12 +25,11 @@ Mineiro, residente em Manaus, desenvolvedor Java (WEB), também trabalho com des
 ![tomcat][ApacheTomcat_BADGE]
 
 <hr>
-</p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=smjesus&locale=pt_BR" alt="GitHub Streak" /></a>
-</p>
+</div>
+
 <BR>
+
 <p align="center">
   <a href="https://www.aeroceti.com/" target="_blank"><img src="https://img.shields.io/badge/WebSite-Formulario%20de%20Contato-blue" target="_blank"></a>
 </p>
